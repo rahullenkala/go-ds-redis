@@ -1,4 +1,4 @@
-module github.com/ipfs/go-ds-redis
+module github.com/rahullenkala/go-ds-redis
 
 require (
 	github.com/fzzy/radix v0.5.6
